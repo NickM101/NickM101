@@ -4,11 +4,12 @@ Hi 👋 My name is Nick
 Mobile App Designer/Developer
 -----------------------------
 
-I am an experienced software developer with a particular focus on mobile development. Over the course of my career, which spans more than three years, I have developed a strong foundation in mobile app development using multiple frameworks. I began with React Native and then transitioned to Flutter, while also becoming proficient in web development using React and Vue, which further showcases my adaptability and versatility.
+Results-oriented mobile developer with 5+ years of experience, committed to crafting solutions that deliver tangible impact. Currently focused on developing a key application designed to fuel significant client growth. I thrive on dissecting and resolving complex technical challenges, with a particular interest in building native modules to optimize performance and access platform-specific features.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [nickmunene101@gmail.com](mailto:nickmunene101@gmail.com)
-* 🧠  I'm learning Flutter, C++
+* 🌍 Based in Nairobi, Kenya
+* ✉️ [nickmunene101@gmail.com](mailto:nickmunene101@gmail.com) - Let's connect and discuss innovative mobile solutions!
+* 🧠 Excited about the possibilities of Expo Router in SDK 53 for crafting robust cross-platform applications. Also intrigued by unique client ideas that offer thrilling development challenges.
+* ⛰️ When I'm not coding, you can find me exploring the world's vibrant landscapes (12+ countries and counting!), swimming, or indulging in diverse culinary experiences.
 
 ### Skills
 
