@@ -14,7 +14,7 @@
   <a href="mailto:nickmunene101@gmail.com"><img src="https://img.shields.io/badge/Email-nickmunene101%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/nickmunene101"><img src="https://img.shields.io/badge/LinkedIn-nickmunene101-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/nick_nesh"><img src="https://img.shields.io/badge/X%20(Twitter)-@nick__nesh-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://NickM101.github.io"><img src="https://img.shields.io/badge/Portfolio-NickM101.github.io-0D9488?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nickmunene.dev"><img src="https://img.shields.io/badge/Website-nickmunene.dev-0D9488?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
 </p>
 
 </div>
